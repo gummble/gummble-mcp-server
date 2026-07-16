@@ -81,6 +81,7 @@ projects, or data.
 - Gummble MCP vs Mobbin MCP: https://gummble.com/blog/gummble-mcp-vs-mobbin-mcp
 - Privacy policy: https://gummble.com/privacy
 - Support: support@gummble.com or [open an issue](../../issues)
+- More design MCP servers: [awesome-design-mcp](https://github.com/gummble/awesome-design-mcp)
 
 ## Registry
 
